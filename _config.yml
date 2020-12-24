@@ -1,7 +1,7 @@
 title: BLOG
 author: cdurheart
 email: cdurheart@outlook.com
-theme: jekyll-theme-minimal
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   随便写写
 
