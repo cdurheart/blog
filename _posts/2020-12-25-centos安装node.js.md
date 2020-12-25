@@ -1,3 +1,6 @@
+---
+tags: nodeJS
+---
 
 ### 一 安装 nodejs
 
